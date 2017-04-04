@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3cee4106e2c9a2c4b86943a62d778518
+timeCreated: 1488407153
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FrogNormal: {fileID: 21300000, guid: bc89cb8f43e08dd4489c69a5ee1a8f91, type: 3}
+  - FrogSignal: {fileID: 21300000, guid: 1a13bbf513d20ec419825324bed12a8c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
